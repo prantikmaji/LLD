@@ -1,3 +1,0 @@
-git remote add origin git@github.com:prantikmaji/LLD.git
-git branch -M main
-git push -u origin main{"name":"Local: LMS","url":"/home/prantik/Documents/LLD/assignment2/LMS.cpp","tests":[{"id":1764660945556,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/prantik/Documents/LLD/assignment2/LMS.cpp","group":"local","local":true}
